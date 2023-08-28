@@ -65,6 +65,15 @@ const sleep = (ms = 2000) => new Promise((r) => setTimeout(r, ms));
       case 'Addition +':
         spinner.success({ text: `Your answer is ${number1 + number2}.` });
         break;
+      case 'Subtraction -':
+          spinner.success({ text: `Your answer is ${number1 - number2}.` });
+          break;
+      case 'Multiplication *':
+            spinner.success({ text: `Your answer is ${number1 * number2}.` });
+            break;
+      case 'Division /':
+              spinner.success({ text: `Your answer is ${number1 / number2}.` });
+              break;            
         default:
           console.log('You have selected an unimplemented operation');
           break;
