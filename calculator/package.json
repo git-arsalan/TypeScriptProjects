@@ -1,12 +1,10 @@
 {
-  "name": "calculator",
-  "version": "1.0.0",
+  "name": "@arsalanakhtar88/calculator",
+  "version": "1.0.1",
   "description": "",
   "main": "calc.js",
   "type": "module",
-  "bin": {
-    "calculator": "main.js"
-  },
+  "bin": "./calc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
