@@ -6,7 +6,7 @@ import chalkAnimation from 'chalk-animation';
 //import figlet from 'figlet';
 import { createSpinner } from 'nanospinner';
 
-console.log(chalk.bgGreen('Pakistan Zindabad!!!'));
+//console.log(chalk.bgGreen('Pakistan Zindabad!!!'));
 
 //let playerName;
 
