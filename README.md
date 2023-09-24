@@ -4,3 +4,4 @@ Here I am creating some basic projects to understand type script concepts
 1. Simple Calculator 
 2. Number Guessing Game
 3. ATM Emulator
+4. Todo List
