@@ -5,3 +5,4 @@ Here I am creating some basic projects to understand type script concepts
 2. Number Guessing Game
 3. ATM Emulator
 4. Todo List
+5. Currency Converter
