@@ -6,3 +6,4 @@ Here I am creating some basic projects to understand type script concepts
 3. ATM Emulator
 4. Todo List
 5. Currency Converter
+6. Word Counter
