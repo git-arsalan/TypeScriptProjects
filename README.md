@@ -7,3 +7,4 @@ Here I am creating some basic projects to understand type script concepts
 4. Todo List
 5. Currency Converter
 6. Word Counter
+7. Adventure Game
