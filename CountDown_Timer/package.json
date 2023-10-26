@@ -1,0 +1,24 @@
+{
+  "name": "@arsalanakhtar88/countdowntimer",
+  "version": "1.0.0",
+  "description": "Simple Count down timer in typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "date-fns": "^2.30.0",
+    "inquirer": "^9.2.11",
+    "nanospinner": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.2",
+    "@types/inquirer": "^9.0.6"
+  }
+}
