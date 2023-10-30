@@ -10,7 +10,7 @@ const sleep = (ms = 5000) => new Promise((r) => setTimeout(r, ms));
 
  async function welcome() 
  {
-  const rainbowTitle = chalkAnimation.rainbow('Welcome to General Knowledge Quiz!\n');
+  const rainbowTitle = chalkAnimation.rainbow('Welcome to Basic Computer Science Quiz!\n');
   await sleep();
   rainbowTitle.stop();
       
@@ -61,11 +61,17 @@ let startQuiz = async () =>
 
         if (quiz.quest === atob(apiRes[i].correct_answer))
         {
+          console.log(chalk.bold.blue('Correct'))
           score++;
         }
+        else
+        {
+          console.log(chalk.bold.red(`The Correct answer is ${chalk.bold.red(atob(apiRes[i].correct_answer))}`))
+        }
+
    }
 
-   console.log(score);
+   console.log(`${stud_Name.name} Your score is ${score} out of 5`);
 }
 
 
