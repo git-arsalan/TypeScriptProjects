@@ -8,3 +8,8 @@ Here I am creating some basic projects to understand type script concepts
 5. Currency Converter
 6. Word Counter
 7. Adventure Game
+8. Countdown timer
+9. Understanding basic OOP
+10. Banking By using OOP
+11. Student Managment
+12. Quiz Emulator
