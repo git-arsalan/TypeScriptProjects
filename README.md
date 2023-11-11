@@ -35,9 +35,10 @@ Here I am creating some basic projects to understand type script concepts
 9. For Understanding basic OOP
      ```npx @arsalanakhtar88/oop ```
 10. For OOP my Bank
+     ```npx @arsalanakhtar88/oopmybank ```
+    1. we have default account 10001,10002 and 10003
+12. For student management
      ``` ```
-11. For student management
-     ``` ```
-12. For Quiz emulator
+13. For Quiz emulator
     ```@arsalanakhtar88/quiz ```      
    
