@@ -20,4 +20,24 @@ Here I am creating some basic projects to understand type script concepts
      ``` npx @arsalanakhtar88/calculator```
 2. For Number guessing game
      ``` npx @arsalanakhtar88/numberguess```
+3. For ATM Emulator
+     ``` npx @arsalanakhtar88/atm```
+4. For Todo List
+     ``` npx @arsalanakhtar88/todolist```
+5. For Currency convertor
+     ``` npx @arsalanakhtar88/currencyconvertor```
+6. For Word counter
+     ``` npx @arsalanakhtar88/wordcounter```
+7. For Adventure Game
+     ``` npx @arsalanakhtar88/adventuregame
+8. For countdown timer
+     ``` npx @arsalanakhtar88/countdowntimer
+9. For Understanding basic OOP
+     ```npx @arsalanakhtar88/oop ```
+10. For OOP my Bank
+     ``` ```
+11. For student management
+     ``` ```
+12. For Quiz emulator
+    ```@arsalanakhtar88/quiz       
    
