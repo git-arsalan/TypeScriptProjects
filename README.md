@@ -29,9 +29,9 @@ Here I am creating some basic projects to understand type script concepts
 6. For Word counter
      ``` npx @arsalanakhtar88/wordcounter```
 7. For Adventure Game
-     ``` npx @arsalanakhtar88/adventuregame
+     ``` npx @arsalanakhtar88/adventuregame```
 8. For countdown timer
-     ``` npx @arsalanakhtar88/countdowntimer
+     ``` npx @arsalanakhtar88/countdowntimer```
 9. For Understanding basic OOP
      ```npx @arsalanakhtar88/oop ```
 10. For OOP my Bank
@@ -39,5 +39,5 @@ Here I am creating some basic projects to understand type script concepts
 11. For student management
      ``` ```
 12. For Quiz emulator
-    ```@arsalanakhtar88/quiz       
+    ```@arsalanakhtar88/quiz ```      
    
